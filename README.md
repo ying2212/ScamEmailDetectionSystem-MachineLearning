@@ -6,7 +6,7 @@ This project represents a machine learning-based system designed to detect scam 
 
 ## Features
 
-- **Machine Learning Techniques:** The system employs state-of-the-art machine learning techniques to analyze and classify emails, distinguishing between legitimate and potentially harmful content.
+- **Machine Learning Techniques:** The system employs machine learning techniques to analyze and classify emails, distinguishing between legitimate and potentially harmful content.
 
 - **Dataset Integration:** The inclusion of datasets from Kaggle and Zenodo ensures a comprehensive coverage of scam emails, capturing variations and trends in fraudulent activities over the years.
 
