@@ -39,7 +39,7 @@ This project represents a machine learning-based system designed to detect scam 
 - [Kaggle](https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
 - [Zenodo](https://zenodo.org/records/8339691)
 
-## Brief Presentation
+## Brief Introduction
 <img width="1000" alt="Screenshot 2024-01-18 at 9 30 44 PM" src="https://github.com/ying2212/ScamMailDetection-MachineLearning/assets/101590536/248a735c-a03b-4f85-9764-516eff38f563">
 
 <img width="1000" alt="Screenshot 2024-01-18 at 11 17 34 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/c3f76b68-8fe4-423b-8cfc-a59a43d31fc5">
