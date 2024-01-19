@@ -18,7 +18,7 @@ This project represents a robust machine learning-based system designed to detec
 
 - **Up-to-Date Information:** The inclusion of data up to 2022 ensures that the model is trained on recent scam email trends, making it more relevant and effective in identifying current fraudulent activities.
 
-- **Practical Learning:** The project serves as a practical application of machine learning concepts, offering hands-on experience in developing a scam email detection system.
+- **Practical Learning:** This project serves as a practical application of machine learning concepts, offering me a hands-on experience to improve understanding and proficiency in the field.
 
 ## Disadvantages
 
