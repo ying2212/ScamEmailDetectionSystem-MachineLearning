@@ -42,9 +42,15 @@ This project represents a machine learning-based system designed to detect scam 
 ## Brief Introduction
 <img width="1000" alt="Screenshot 2024-01-18 at 9 30 44 PM" src="https://github.com/ying2212/ScamMailDetection-MachineLearning/assets/101590536/248a735c-a03b-4f85-9764-516eff38f563">
 
-<img width="1000" alt="Screenshot 2024-01-18 at 11 17 34 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/c3f76b68-8fe4-423b-8cfc-a59a43d31fc5">
+<img width="1470" alt="Screenshot 2024-01-19 at 12 34 05 AM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/6d972204-45d3-4670-a458-43154410c59a">
 
-<img width="1000" alt="Screenshot 2024-01-18 at 11 16 19 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/33b7419c-c292-4dbd-bf5c-561d34a26f03">
+<img width="1470" alt="Screenshot 2024-01-19 at 12 34 11 AM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/55151d38-fca3-46ef-acdc-137a82cb8167">
+
+<img width="1470" alt="Screenshot 2024-01-19 at 12 34 21 AM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/6ef6ab5c-9916-4c53-b02a-622c70a8fb0f">
+
+<img width="1470" alt="Screenshot 2024-01-19 at 12 34 28 AM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/62aa5b6a-5606-4eb1-affd-8fefafff49c8">
+
+
 
 
 © 2024 Guan Ying Goh
