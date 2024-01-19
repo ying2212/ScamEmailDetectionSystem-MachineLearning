@@ -42,7 +42,9 @@ This project represents a machine learning-based system designed to detect scam 
 ## Brief Presentation
 <img width="1470" alt="Screenshot 2024-01-18 at 9 30 44 PM" src="https://github.com/ying2212/ScamMailDetection-MachineLearning/assets/101590536/248a735c-a03b-4f85-9764-516eff38f563">
 
-<img width="1470" alt="Screenshot 2024-01-18 at 9 30 25 PM" src="https://github.com/ying2212/ScamMailDetection-MachineLearning/assets/101590536/88487c1b-4636-48cf-841f-4521920759de">
+<img width="1470" alt="Screenshot 2024-01-18 at 11 15 59 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/39d680c5-a5a1-4e48-84a5-8277bd7c7a27">
+
+<img width="1470" alt="Screenshot 2024-01-18 at 11 16 19 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/33b7419c-c292-4dbd-bf5c-561d34a26f03">
 
 
 © 2024 Guan Ying Goh
