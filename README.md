@@ -31,4 +31,4 @@ This project represents a robust machine learning-based system designed to detec
 ### Prerequisites
 
 - Python
-- Jupyter Notebooks
+- Jupyter Notebooks/Google Colab
