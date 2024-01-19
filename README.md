@@ -36,7 +36,8 @@ This project represents a machine learning-based system designed to detect scam 
 - Jupyter Notebooks/Google Colab
 
 The scam email dataset used in this project is sourced from Kaggle.
-- **Platform:** [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
-                 [Zenode](https://zenodo.org/records/8339691)
+ **Platform:**
+- [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
+- [Zenode](https://zenodo.org/records/8339691)
 
 
