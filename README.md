@@ -45,5 +45,5 @@ This project represents a machine learning-based system designed to detect scam 
 
 
 ## Copyright
-(c) 2024 Guan Ying Goh
+© 2024 Guan Ying Goh
 
