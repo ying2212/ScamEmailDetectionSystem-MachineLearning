@@ -40,11 +40,11 @@ This project represents a machine learning-based system designed to detect scam 
 - [Zenodo](https://zenodo.org/records/8339691)
 
 ## Brief Presentation
-<img width="1470" alt="Screenshot 2024-01-18 at 9 30 44 PM" src="https://github.com/ying2212/ScamMailDetection-MachineLearning/assets/101590536/248a735c-a03b-4f85-9764-516eff38f563">
+<img width="1000" alt="Screenshot 2024-01-18 at 9 30 44 PM" src="https://github.com/ying2212/ScamMailDetection-MachineLearning/assets/101590536/248a735c-a03b-4f85-9764-516eff38f563">
 
-<img width="1470" alt="Screenshot 2024-01-18 at 11 15 59 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/39d680c5-a5a1-4e48-84a5-8277bd7c7a27">
+<img width="1000" alt="Screenshot 2024-01-18 at 11 17 34 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/c3f76b68-8fe4-423b-8cfc-a59a43d31fc5">
 
-<img width="1470" alt="Screenshot 2024-01-18 at 11 16 19 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/33b7419c-c292-4dbd-bf5c-561d34a26f03">
+<img width="1000" alt="Screenshot 2024-01-18 at 11 16 19 PM" src="https://github.com/ying2212/ScamMailDetectionSystem-MachineLearning/assets/101590536/33b7419c-c292-4dbd-bf5c-561d34a26f03">
 
 
 © 2024 Guan Ying Goh
