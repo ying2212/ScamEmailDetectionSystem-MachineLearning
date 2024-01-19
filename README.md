@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project represents a machine learning-based system designed to detect scam emails effectively. I leveraged datasets sourced from both Kaggle and Zenodo to benefit system from a diverse and up-to-date collection of scam emails from users spanning the years 1998 to 2022. The primary objective is to construct a practical and efficient model capable of accurately identifying scam emails, employing Python and Google Colab.
+This project represents a machine learning-based system designed to detect scam emails effectively. I leveraged datasets sourced from both Kaggle and Zenodo to benefit system from a diverse and up-to-date collection of scam emails from users spanning the years 1998 to 2022. The The primary objective is to construct a practical and efficient model capable of accurately identifying scam emails, employing Python and Google Colab.
 
 ## Features
 
@@ -11,6 +11,8 @@ This project represents a machine learning-based system designed to detect scam 
 - **Dataset Integration:** The inclusion of datasets from Kaggle and Zenodo ensures a comprehensive coverage of scam emails, capturing variations and trends in fraudulent activities over the years.
 
 - **Practical Application:** This project goes beyond theoretical concepts, focusing on real-world applications to enhance understanding and proficiency in machine learning practices.
+
+- **Datasets information:** The datasets are a collection of more than 2,500 "Nigerian" Fraud Letters, dating from 1998 to 2022. Fraudulent e-mails contain criminally deceptive information, usually with the intent of convincing the recipient to give the sender a large amount of money. Perhaps the best known type of fraudulent e-mails is the Nigerian Letter or “419” Fraud.
 
 ## Advantages
 
