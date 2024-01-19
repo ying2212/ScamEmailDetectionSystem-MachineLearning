@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project represents a robust machine learning-based system designed to detect scam emails effectively. By leveraging datasets sourced from both Kaggle and Zenodo, the system benefits from a diverse and up-to-date collection of scam emails spanning the years 1998 to 2022. The primary objective is to construct a practical and efficient model capable of accurately identifying scam emails, employing the power of Python programming language and Google Colab's collaborative environment.
+This project represents a robust machine learning-based system designed to detect scam emails effectively. I leveraged datasets sourced from both Kaggle and Zenodo to benefit system from a diverse and up-to-date collection of scam emails spanning the years 1998 to 2022. The primary objective is to construct a practical and efficient model capable of accurately identifying scam emails, employing the power of Python programming language and Google Colab's collaborative environment.
 
 ## Features
 
@@ -18,7 +18,7 @@ This project represents a robust machine learning-based system designed to detec
 
 - **Up-to-Date Information:** The inclusion of data up to 2022 ensures that the model is trained on recent scam email trends, making it more relevant and effective in identifying current fraudulent activities.
 
-- **Practical Learning:** This project serves as a practical application of machine learning concepts, offering me a hands-on experience to improve understanding and proficiency in the field.
+- **Practical Learning:** This project serves as a practical application of machine learning concepts, offering me a hands-on experience to improve understanding and proficiency in the Machine Learning field.
 
 ## Disadvantages
 
