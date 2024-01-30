@@ -33,6 +33,7 @@ This project represents a machine learning-based system designed to detect scam 
 ### Prerequisites
 
 - Python
+- Machine Learning
 - Jupyter Notebooks/Google Colab
 
  **The scam email dataset used in this project is sourced from Kaggle & Zenodo**
